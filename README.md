@@ -8,7 +8,8 @@
      - Работать удаленно.
 
 Мое фото:
- 
+ ![DSCF______00_02](https://user-images.githubusercontent.com/117196197/201324835-5617fa42-b61f-421c-bb35-e5414385cfef.jpg)
+
 
 
 Адрес эл. почты: <bazzaroff@mail.ru>
